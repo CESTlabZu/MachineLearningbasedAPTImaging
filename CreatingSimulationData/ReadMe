@@ -1,1 +1,6 @@
 This code is used for creating partially synthetic data
+clean_read.m contains is the main file to run
+clean_testread.m is to create testing data
+Please download all the files together as a zip for running together
+
+The training matrix created is called train_data.mat and is available in the training folder
