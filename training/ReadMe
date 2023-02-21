@@ -1,1 +1,3 @@
-This is for training simulated data
+Using the train_data.mat from the partially simulated data to run the training.
+To run training, please run the clean_read.m file
+Please put all the files together in one folder
